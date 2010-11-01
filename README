@@ -1,17 +1,24 @@
 # clojurize-protocol
 
-FIXME: write description
+Clojurize is an experimental DSL providing a common abstraction for configuring and using multiple kinds of data stores. Read about it here: 
+
+http://anvil.io/2010/10/25/clojurize-the-data-not-the-database.html
+
+Also see:
+* http://github.com/christiansmith/clojurize-adapter
+* http://github.com/christiansmith/clojurize-couchdb
+* http://github.com/christiansmith/clojurize-sql
 
 ## Usage
 
-FIXME: write
+   ...
 
 ## Installation
 
-FIXME: write
+   ...
 
 ## License
 
-Copyright (C) 2010 FIXME
+Copyright (C) 2010 Christian Smith
 
 Distributed under the Eclipse Public License, the same as Clojure.
