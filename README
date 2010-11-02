@@ -4,18 +4,12 @@ Clojurize is an experimental DSL providing a common abstraction for configuring 
 
 http://anvil.io/2010/10/25/clojurize-the-data-not-the-database.html
 
-Also see:
+## Usage
+
+The Clojurize Protocol is incorporated into Clojurize adapters as a Git submodule. See adapters:
 * http://github.com/christiansmith/clojurize-adapter
 * http://github.com/christiansmith/clojurize-couchdb
 * http://github.com/christiansmith/clojurize-sql
-
-## Usage
-
-   ...
-
-## Installation
-
-   ...
 
 ## License
 
