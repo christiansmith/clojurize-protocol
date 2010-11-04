@@ -1,16 +1,17 @@
 # clojurize-protocol
 
-Motivation: As a Clojurian, I want to be able to uniformly configure access to and utilize virtually any data storage mechanism while ignoring their superficial differences so that I can concentrate on composing problem domain solutions.
+*Motivation: As a Clojurian, I want to be able to uniformly configure access to and utilize virtually any data storage mechanism while ignoring their superficial differences so that I can concentrate on composing problem domain solutions.*
 
 Clojurize aims to provide a simple, intuitive, common DSL for interacting with several different kinds of data sources from within Clojure, along with facilities for authors of adapters such as documentation and common tests.
 
 Clojurize and adapters that implement its protocol handle:
+
 * translation from Clojure expressions to native data store calls
 * translation from data store responses to Clojure data structures.
 
-You can read more about Clojurize here:
+You can read more about Clojurize at [anvil.io](http://anvil.io):
 
-* http://anvil.io/2010/10/25/clojurize-the-data-not-the-database.html
+* [Clojurize the Data, Not the Database](http://anvil.io/2010/10/25/clojurize-the-data-not-the-database.html)
 
 
 ## Status
@@ -20,10 +21,11 @@ Clojurize is in the inception phase. Your participation is very welcome and stro
 
 ## Usage
 
-The Clojurize Protocol is incorporated into Clojurize adapters as a dependency. The jar is on clojars. See adapters:
-* http://github.com/christiansmith/clojurize-adapter
-* http://github.com/christiansmith/clojurize-couchdb
-* http://github.com/christiansmith/clojurize-sql
+The Clojurize Protocol is incorporated into Clojurize adapters as a dependency. The jar is on clojars. See related repositories:
+
+* [Clojurize Adapter Starter Kit](http://github.com/christiansmith/clojurize-adapter)
+* [Experimental Clojurize CouchDB Adapter](http://github.com/christiansmith/clojurize-couchdb)
+* [Experimental Clojurize SQL Adapter](http://github.com/christiansmith/clojurize-sql)
 
 
 ## License
