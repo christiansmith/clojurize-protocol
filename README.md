@@ -1,4 +1,4 @@
-# clojurize-protocol
+# Clojurize
 
 *Motivation: As a Clojurian, I want to be able to uniformly configure access to and utilize virtually any data storage mechanism while ignoring their superficial differences so that I can concentrate on composing problem domain solutions.*
 
@@ -16,7 +16,8 @@ You can read more about Clojurize at [anvil.io](http://anvil.io):
 
 ## Status
 
-Clojurize is in the inception phase. Your participation is very welcome and strongly encouraged. Send encouragement, criticism and general thoughts to smith at anvil.io, or skype me for a discussion (anvil.io). If you want to submit code, please do so via GitHub.
+Clojurize is in the inception phase. Your participation is very
+welcome and strongly encouraged. Send encouragement, criticism and general thoughts to smith at anvil.io, or skype me for a discussion (anvil.io). If you want to submit code, please do so via GitHub.
 
 
 ## Usage
